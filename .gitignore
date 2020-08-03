@@ -1,3 +1,6 @@
 # ignore .git and .ipynb_checkpoints folder
 .git/
 .ipynb_checkpoints/
+
+# ignore file starting from InProgress
+InProgress*
